@@ -7,5 +7,5 @@ A web application that scans websites and generates a basic security report by c
 > “Think different”  
 > — Steve Jobs
 
-> "Life is like a bicycle. To keep your balance, you must keep moving 
+> "Life is like a bicycle. To keep your balance, you must keep moving"
 > - Albert Einstein
