@@ -10,5 +10,5 @@ A web application that scans websites and generates a basic security report by c
 > "Life is like a bicycle. To keep your balance, you must keep moving"
 > - Albert Einstein
 
-> - “Education is the most powerful weapon which you can use to change the world.”
-> .Nelson Mandela
+> “I have not failed. I've just found 10,000 ways that won't work.”
+> - Thomas Edison
